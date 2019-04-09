@@ -1,0 +1,8 @@
+
+
+name: 'dbt_sample'
+version: 1.0
+
+profile: hjangid_wma_analytics
+
+source-paths: ["models"]
